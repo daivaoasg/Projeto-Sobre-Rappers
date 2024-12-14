@@ -10,10 +10,14 @@ h1{
     padding: 50px;
 }
 
-span{ 
-    color: blue;
-}
 
 .descricao {
     color: rgb(0, 0, 0);
+}
+
+.mais{
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 30px;
+    color: blueviolet;
 }
