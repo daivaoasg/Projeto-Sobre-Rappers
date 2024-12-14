@@ -10,6 +10,10 @@ h1{
     padding: 50px;
 }
 
-p, span{ 
+span{ 
     color: blue;
+}
+
+.descricao {
+    color: rgb(0, 0, 0);
 }
